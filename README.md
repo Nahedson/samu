@@ -36,7 +36,7 @@ Os códigos (id) da Unidades Federativas (UF), segundo o IBGE, variam entre 11 e
 - id: 28, aluno: Lara Costa Belarmino de Macedo
 - id: 29, aluno: Leon Andrade Siqueira
 - id: 31, aluno: Marcos Adriano Rocha de Oliveira
-- id: 32, aluno: Nahédson Silva Batista de Souza
+- id: 32, aluno: Nahedson Silva Batista de Souza
 - id: 33, aluno: Nestor Caetano dos Santos
 - id: 35, aluno: Paulo Victor Ribeiro de Freitas Damasceno
 - id: 41, aluno: Pedro Henrique de Macêdo Oliveira
